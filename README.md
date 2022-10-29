@@ -1,6 +1,6 @@
 # Employee Management - version: EA.01
 
-- This is a management program of human resource in a company (without a log-in stage).
+- This is a management program of human resource in a company **without a log-in stage**.
 - Project link (GitHub) : https://github.com/phamgiaphuc/EmployeeManagement-EM.01
 - Project's author: Pham Gia Phuc - Acus
 - Personal profile: https://github.com/phamgiaphuc
